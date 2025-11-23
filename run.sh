@@ -1,3 +1,4 @@
+# Minor edit
 #!/bin/bash
 
 # Main script to run the task manager
